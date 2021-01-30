@@ -1,0 +1,7 @@
+#discord stuff
+token: ''
+killLogging: true
+chatLogging: true
+joinLogging: true
+discordChatToGameChat: true
+channelID: 0

@@ -1,0 +1,7 @@
+# you can use %playername% as a placeholder for the players name!
+
+joinmessage: 'welcome %player% to the server!'
+leavemessage: '%player% left the server :('
+
+# this supports chat formatting, use %playername% for the discord name, and %message% for what they have sent. supports &f&l etc etc
+chatFormatting: '&7%player% &f>> &e%message%'

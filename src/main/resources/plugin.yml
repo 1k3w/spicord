@@ -1,0 +1,4 @@
+name: Spicord
+version: @version@
+main: spicord.spicord.Spicord
+api-version: 1.13
